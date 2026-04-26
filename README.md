@@ -1,4 +1,3 @@
-# hr-attrition-analysis
 #  HR Attrition Analysis & Prediction System
 
 ---
